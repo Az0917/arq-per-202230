@@ -15,10 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\David\Desktop\arq-per-202230\personapi-dotnet\personapi-dotnet
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/David/Desktop/arq-per-202230/personapi-dotnet/personapi-dotnet/Views/Estudios/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpb3NcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/David/Desktop/arq-per-202230/personapi-dotnet/personapi-dotnet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -27,28 +23,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/David/Desktop/arq-per-202230/personapi-dotnet/personapi-dotnet/Views/Persona/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/David/Desktop/arq-per-202230/personapi-dotnet/personapi-dotnet/Views/Persona/Index1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxJbmRleDEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/David/Desktop/arq-per-202230/personapi-dotnet/personapi-dotnet/Views/Profesion/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzaW9uXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/David/Desktop/arq-per-202230/personapi-dotnet/personapi-dotnet/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/David/Desktop/arq-per-202230/personapi-dotnet/personapi-dotnet/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/David/Desktop/arq-per-202230/personapi-dotnet/personapi-dotnet/Views/Telefono/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbm9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/David/Desktop/arq-per-202230/personapi-dotnet/personapi-dotnet/Views/_ViewImports.cshtml]

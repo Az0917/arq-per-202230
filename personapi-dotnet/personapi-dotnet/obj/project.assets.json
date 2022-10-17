@@ -2456,11 +2456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\source\\repos\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Desktop\\arq-per-202230\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet.csproj",
       "projectName": "personapi-dotnet",
-      "projectPath": "C:\\Users\\David\\source\\repos\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet.csproj",
+      "projectPath": "C:\\Users\\David\\Desktop\\arq-per-202230\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\source\\repos\\personapi-dotnet\\personapi-dotnet\\obj\\",
+      "outputPath": "C:\\Users\\David\\Desktop\\arq-per-202230\\personapi-dotnet\\personapi-dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",

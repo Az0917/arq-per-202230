@@ -1,0 +1,38 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<personapi_dotnet.Models.Entities.Profesion>
+<h1>Profesion</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Nombre
+            </th>
+            <th>
+                Descripcion
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var profesion in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(m=>profesion.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(m=>profesion.Nom)
+                </td>
+                <td>
+                    @Html.DisplayFor(m=>profesion.Des)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

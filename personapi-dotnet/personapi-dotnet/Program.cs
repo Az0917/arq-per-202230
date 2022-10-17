@@ -8,7 +8,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<persona_dbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("dbContext"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("persona_dbContext"));
 });
 
 var app = builder.Build();
